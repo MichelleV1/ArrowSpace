@@ -10,7 +10,7 @@
     "type": "git",
     "url": "ArrowSpace"
   },
-  "author": "\"Michelle Marobela <michelle.marobela\"gmail.com> (https://github.com/MichelleV1)",
+  "author": "\"Michelle Marobela <michele.marobla\"gmail.com> (https://github.com/MichelleV1)",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^4.0.0"
